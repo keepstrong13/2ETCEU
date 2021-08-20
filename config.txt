@@ -1,0 +1,4 @@
+-pool etc.2miners.com:1010
+-coin etc
+-wal 0x8e0475c0d3d53829cd10f1eb192a6b85f94328b7
+-pass x
